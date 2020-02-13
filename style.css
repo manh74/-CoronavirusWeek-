@@ -1,0 +1,23 @@
+.center{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.flex{
+	display: flex
+}
+
+.border{
+	border: 1px solid #267bd1; 
+	text-align: center;
+}
+
+.sale{
+	background-color: orange;
+	position: absolute;
+	color: white;
+	padding: 0 10px;
+	line-height: 42px;
+	top: 40px;
+}
